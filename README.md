@@ -1,2 +1,2 @@
-# equaly-jpa-crud
+# dio-jpa-crud
 DIO Challenge: JPA CRUD
